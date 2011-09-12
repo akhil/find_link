@@ -2,3 +2,6 @@ Tested on ruby-1.9.2-p-290
 
 Prerequisite:
 gem install twitter
+
+This program fetches the links for the twitter feed and resolves all redirects.
+Non working urls are filtered out.
