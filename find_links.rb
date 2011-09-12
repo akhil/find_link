@@ -1,5 +1,4 @@
 require 'rubygems'
-require 'pp'
 begin
   require 'twitter'
 rescue LoadError => e
